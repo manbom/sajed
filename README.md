@@ -1,2 +1,2 @@
 # sajed
-admin:h
+admin:https://t,me/man_bom
